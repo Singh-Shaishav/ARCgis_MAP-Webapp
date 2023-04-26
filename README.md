@@ -1,4 +1,4 @@
-## **React Map App**
+## **ArcGIS Map -WebApp**
 This is a React web application that uses the ARCGIS API to display maps and other geospatial data.
 
 ## **Features**
